@@ -9,7 +9,7 @@ Je publie tout gratuitement sur GitHub et YouTube, et je propose un système de 
 
 ---
 
-## 🇬🇧 Hi, I'm Cyrizon  
+## 🇪🇳 Hi, I'm Cyrizon  
 I'm a passionate developer and final-year student. I create **open-source projects**, **game mods/tools**, and public **datasets** that are accessible to everyone.
 
 🎯 My goal: giving everyone an equal opportunity to access and learn from technology.
