@@ -38,13 +38,13 @@ Everything I publish is free on GitHub and YouTube. You can support my work thro
 
 🎁 Tous mes datasets sont disponibles :
 - Gratuitement via le tutoriel et le code open-source
-- Ou via un abonnement ou un achat pour obtenir directement les fichiers traités
+- Ou via un achat pour obtenir directement le(s) fichier(s) traité(s)
 
 🌱 **S’abonner = me soutenir + soutenir une association**.
 
 🎁 All datasets are available:
 - Free through tutorials and open-source code
-- Or through a subscription or one-time purchase to get the ready-to-use files
+- Or through a one-time purchase to get the ready-to-use file(s)
 
 🌱 **Subscribing = supporting me + supporting a charity**.
 
@@ -56,14 +56,14 @@ Everything I publish is free on GitHub and YouTube. You can support my work thro
 
 Tu peux me soutenir via :
 - ✅ Don ponctuel (sans création de compte)
-- ✅ Abonnement mensuel (à partir de 3 €)
+- ✅ Abonnement mensuel (à partir de 1 €)
 - ✅ Achat de dataset à l’unité (5 €)
 
 📊 Chaque mois, une partie des revenus issus des abonnements est reversée à une **association**, et je publie un petit récap de l’activité du mois.
 
 You can support me through:
 - ✅ One-time donation (no account needed)
-- ✅ Monthly subscription (starting at €3)
+- ✅ Monthly subscription (starting at €1)
 - ✅ One-time dataset purchase (€5)
 
 📊 Each month, part of the subscription revenue goes to **charity**, and I share a quick summary of progress and donations.
