@@ -16,14 +16,15 @@ I work on **open-source projects** and build **mods / tools for games** because 
 - Game mods and extensions
 - Creative side projects driven by curiosity and fun
 
+You can find them here → [github.com/cyrizon](https://github.com/cyrizon?tab=repositories)
+
 ---
 
 ## 🔗 Links
 
-- 🧑‍💻 GitHub: [github.com/cyrizon](https://github.com/cyrizon)
 - 📺 YouTube: [youtube.com/@cyrizon](https://www.youtube.com/@cyrizon)
 - 🌐 Website: [cyrizon.fr](https://cyrizon.fr)
 
 ---
 
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> See you around 
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="16" height="16"></picture> See you around 
