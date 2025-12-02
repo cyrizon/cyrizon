@@ -1,42 +1,29 @@
-# 👋 Bienvenue – Welcome
+<div align="center"><picture><img height="250" src="https://github.com/user-attachments/assets/82db720c-2a23-425d-88f5-f4672bc3ff72"/></picture></div>
 
-## 🇫🇷 Salut, moi c’est Cyrizon  
-Développeur passionné et étudiant en dernière année, je crée des **projets open-source**, des **mods/outils pour jeux vidéo**, ainsi que des **datasets** accessibles à tous.
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Welcome
 
-🎯 Mon objectif : permettre à chacun d’avoir les mêmes chances d’accéder aux technologies.
-
----
-
-## 🇪🇳 Hi, I'm Cyrizon  
-I'm a passionate developer and final-year student. I create **open-source projects**, **game mods/tools**, and public **datasets** that are accessible to everyone.
-
-🎯 My goal: giving everyone an equal opportunity to access and learn from technology.
+## About me 
+I'm a **final-year Master's student in Data Science** and a passionate developer.  
+I love **creating things** - especially when they can be useful to others.  
+I work on **open-source projects** and build **mods / tools for games** because bringing ideas to life is what drives me.
 
 ---
 
-## 📂 Projets / Projects
-
-🧩 Développement de :
-- Outils open-source
-- Mods et extensions pour jeux vidéo
-- Datasets structurés et documentés
+## 📂 Projects
 
 🧩 I build:
 - Open-source tools
 - Game mods and extensions
-- Structured, documented datasets
-
-📁 Tous mes projets sont ici → [github.com/cyrizon](https://github.com/cyrizon)
+- Creative side projects driven by curiosity and fun
 
 ---
 
-## 🔗 Liens / Links
+## 🔗 Links
 
 - 🧑‍💻 GitHub: [github.com/cyrizon](https://github.com/cyrizon)
 - 📺 YouTube: [youtube.com/@cyrizon](https://www.youtube.com/@cyrizon)
-- 🌐 Site perso: [cyrizon.fr](https://cyrizon.fr)
+- 🌐 Website: [cyrizon.fr](https://cyrizon.fr)
 
 ---
 
-Merci pour ton passage 🙏  
-Thanks for stopping by 🙏
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> See you around 
